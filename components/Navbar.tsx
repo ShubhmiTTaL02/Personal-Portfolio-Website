@@ -74,7 +74,7 @@ export default function Navbar() {
           <Link href="https://github.com/ShubhmiTTaL02">
             <AiFillGithub className={socialClassNames}/>
           </Link>
-          <Link href="https://www.instagram.com">
+          <Link href="https://www.linkedin.com/in/shubhmittal02/">
             <AiFillLinkedin className={socialClassNames}/>
           </Link>
           <Link href="https://x.com/shubhMiTTaL02">

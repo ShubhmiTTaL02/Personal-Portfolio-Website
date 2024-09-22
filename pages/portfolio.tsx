@@ -14,7 +14,7 @@ export default function Portfolio() {
   return (
     <>
       <Head>
-        <title>Mozorozov | Portfolio</title>
+        <title>Shubh | Portfolio</title>
       </Head>
       <Wrapper pageIndex={3}>
         <div className="flex flex-col pt-40 items-center text-center">
