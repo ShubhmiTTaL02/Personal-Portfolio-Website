@@ -50,6 +50,7 @@ const projects: ProjectProps[] = [
     id: 1,
     img: "/project1.png",
     name: "Al-Nashwan",
+<<<<<<< HEAD
     tools: ["React", "Typescript", "GSAP","Recoil"],
   },
   {
@@ -69,6 +70,27 @@ const projects: ProjectProps[] = [
     img: "/project4.png",
     name: "SpeakEasy AI",
     tools: ["NextJS", "Javascript", "Stripe","Clerk"],
+=======
+    tools: ["React", "Typescript", "Tailwind CSS"],
+  },
+  {
+    id: 2,
+    img: "/project2.jpg",
+    name: "React E-commerce Website",
+    tools: ["React", "Tailwind CSS"],
+  },
+  {
+    id: 3,
+    img: "/project3.jpg",
+    name: "Shopping Cart",
+    tools: ["React", "Redux-Toolkit", "Tailwind CSS"],
+  },
+  {
+    id: 4,
+    img: "/project4.jpg",
+    name: "Autocomplete SearchBar",
+    tools: ["React", "Typescript", "Tailwind CSS"],
+>>>>>>> 81b72cb (changes)
   },
 ];
 
