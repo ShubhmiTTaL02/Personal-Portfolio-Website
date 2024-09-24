@@ -24,7 +24,7 @@ export default function about() {
               - Introduction
             </div>
             <div className="font-semibold text-3xl mt-8 text-White uppercase">
-              Full Stack Web Developer, based in India.
+              Full Stack Web Developer, based in .
             </div>
             <p className="text-WhiteGray text-sm mt-8 leading-7">
               {" "}
