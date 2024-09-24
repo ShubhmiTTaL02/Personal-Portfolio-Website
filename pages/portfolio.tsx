@@ -14,11 +14,7 @@ export default function Portfolio() {
   return (
     <>
       <Head>
-<<<<<<< HEAD
         <title>Shubh | Portfolio</title>
-=======
-        <title>Mozorozov | Portfolio</title>
->>>>>>> 81b72cb (changes)
       </Head>
       <Wrapper pageIndex={3}>
         <div className="flex flex-col pt-40 items-center text-center">
