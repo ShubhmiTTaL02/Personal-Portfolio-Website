@@ -20,7 +20,7 @@ const services: ServiceProps[] = [
   { id: 1, title: "Product Management", icon: <BsVectorPen />,finished:8  },
   { id: 2, title: "Web Developmemt", icon: <BsCode />, finished: 209 },
   { id: 3, title: "Web Research", icon: <HiMagnifyingGlass />, finished: 369 },
-  { id: 4, title: "Data Structures & Algorithm", icon: <FiBarChart />, finished: 313 },
+  { id: 4, title: "Data Structures & Algorithm", icon: <FiBarChart />, finished: 312 },
 ];
 const countUpItems: countUpItemsProps[] = [
   {
